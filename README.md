@@ -1,4 +1,4 @@
-# Meu primeiro projeto com ASP.Net core 💛
+# Meu primeiro projeto com ASP.Net Core 💛
 
 &nbsp;
 
