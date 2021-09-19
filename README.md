@@ -1,4 +1,18 @@
+
 # Meu primeiro projeto com ASP.Net Core 💛
+
+## 📚 Informações sobre o projeto
+
+* ➡️ Post -> Cadastro de usuários com Nome e E-mail.
+* ➡️ Get -> Retorna uma lista de todos os usuários
+* ➡️ Get {id} -> Retorna os dados de um usuario específico
+* ➡️ Delete -> Deleta um usuário
+* ➡️ Put -> Atualiza os dados de um usuário
+&nbsp;
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71015476/133946056-41f6f3fd-9f4e-4110-85a0-f2ac7e23afe7.png" />
+</p>
 
 &nbsp;
 
@@ -34,14 +48,12 @@ $ git clone https://github.com/Verdant31/CRUD-API.git
 
 ```
 # Acesse a pasta da aplicação
-$ cd CRUD-API
+$ cd CRUD-API/src
 
 # Instale as dependências
-$ yarn
+$ dotnet build
 
-# Inicie a aplicação
-$ yarn start
-
+# Inicie a aplicação ou caso esteja no VSCode aperte F5
 ```
 
 &nbsp;
